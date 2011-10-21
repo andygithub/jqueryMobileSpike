@@ -1,0 +1,11 @@
+Areas of Interest
+Using 51Degrees to determine the browser details.
+
+Testing the pages:
+	Firefox with the Modify Headers add-on was used to easily switch back and forth between a mobile view of the site.
+	The site http://transmog.net/iphone-simulator/mobile-web-browser-emulation-on-local.php# was used to test the site within the confines of an iPhone layout.
+
+Related Sites of Interest:
+	http://www.jqmgallery.com/
+	http://jquerymobile.com/
+	http://sixrevisions.com/tools/10-excellent-tools-for-testing-your-site-on-mobile-devices/	
