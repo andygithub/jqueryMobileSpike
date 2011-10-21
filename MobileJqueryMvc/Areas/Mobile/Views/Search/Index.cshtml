@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Search";
+}
+<div data-role="content"> 
+
+@using (Html.BeginForm()) {
+       
+    <div data-role="fieldcontain">
+        <label for="search">Search Input:</label>
+        <input type="search" name="password" id="search" value="" />
+    </div>
+        
+    @Html.ActionLink("Search", "Index", "Client", new { area = "Mobile" }, new { data_role = "button" , data_icon = "search" })
+}
+</div>
+@Html.Partial("_AnonFooter")

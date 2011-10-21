@@ -1,0 +1,468 @@
+2011-10-14T18:01:58.0917887Z - 9136 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T18:01:58.1257921Z - 9136 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T18:01:58.3158111Z - 9136 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-14T18:01:58.4878283Z - 9136 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-14T18:08:10.4150173Z - 9136 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T18:08:10.4450203Z - 9136 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T18:08:10.4730231Z - 9136 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-14T18:08:10.5110269Z - 9136 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-14T18:10:36.6616405Z - 7708 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T18:10:36.7586502Z - 7708 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T18:10:36.9766720Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-14T18:10:37.1836927Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-14T18:10:41.8311574Z - 7708 - Debug - Initialising redirection module
+2011-10-14T18:10:41.8351578Z - 7708 - Debug - Initialising redirection module static fields.
+2011-10-14T18:10:41.8621605Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-14T18:10:51.9831725Z - 7708 - Info - Loaded 14691 devices using 12720 strings in 9620ms
+2011-10-14T18:11:01.9081649Z - 7708 - Debug - Initialising redirection module
+2011-10-14T18:11:01.9091650Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-14T18:11:57.1296865Z - 7708 - Debug - Disposing Redirection Module
+2011-10-14T19:12:33.9753488Z - 7708 - Debug - Request for 'http://localhost:35312/' with handler type 'System.Web.Mvc.MvcHandler' and current page '' is not a restricted page for redirect.
+2011-10-14T19:12:33.9753488Z - 7708 - Debug - Redirecting device with useragent 'Mozilla/5.0 (iPhone; U; CPU like Mac OS X; en) AppleWebKit/420+ (KHTML, like Gecko) Version/3.0 Mobile/1A543 Safari/419.3' from url 'http://localhost:35312/' to '~/Mobile/Default.aspx' due to 'default'.
+2011-10-14T19:15:20.6810177Z - 7708 - Debug - Disposing Redirection Module
+2011-10-14T19:15:34.7524247Z - 7708 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T19:15:34.8704365Z - 7708 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T19:15:34.9864481Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-14T19:15:35.4014896Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-14T19:15:36.6846179Z - 7708 - Debug - Initialising redirection module
+2011-10-14T19:15:36.7106205Z - 7708 - Debug - Initialising redirection module static fields.
+2011-10-14T19:15:36.8106305Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-14T19:15:46.5005994Z - 7708 - Info - Loaded 14691 devices using 12720 strings in 9176ms
+2011-10-14T19:16:10.4509942Z - 7708 - Debug - Initialising redirection module
+2011-10-14T19:16:10.4509942Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-14T19:17:03.8043290Z - 7708 - Debug - Disposing Redirection Module
+2011-10-14T20:06:48.4167604Z - 7708 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T20:06:48.4387626Z - 7708 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T20:06:48.4687656Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-14T20:06:48.5017689Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-14T20:06:53.2642451Z - 7708 - Debug - Initialising redirection module
+2011-10-14T20:06:53.2732460Z - 7708 - Debug - Initialising redirection module static fields.
+2011-10-14T20:06:53.2762463Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-14T20:07:02.7991985Z - 7708 - Info - Loaded 14691 devices using 12720 strings in 9347ms
+2011-10-14T20:23:13.7552844Z - 7708 - Debug - Disposing Redirection Module
+2011-10-14T20:23:54.5833668Z - 7708 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T20:23:54.6233708Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-14T20:23:54.6513736Z - 7708 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T20:23:56.9896074Z - 7708 - Debug - Initialising redirection module
+2011-10-14T20:23:56.9936078Z - 7708 - Debug - Initialising redirection module static fields.
+2011-10-14T20:23:57.0536138Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-14T20:24:06.5945678Z - 7708 - Info - Loaded 14691 devices using 12720 strings in 9354ms
+2011-10-14T20:25:26.3885464Z - 7708 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T20:25:26.4075483Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-14T20:25:26.4605536Z - 7708 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T20:25:28.2967372Z - 7708 - Debug - Initialising redirection module
+2011-10-14T20:25:28.3037379Z - 7708 - Debug - Initialising redirection module static fields.
+2011-10-14T20:25:28.3067382Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-14T20:25:37.8496924Z - 7708 - Info - Loaded 14691 devices using 12720 strings in 9348ms
+2011-10-14T20:26:00.8619934Z - 7708 - Debug - Request for 'http://localhost:35312/' with handler type 'System.Web.Mvc.MvcHandler' and current page '' is not a restricted page for redirect.
+2011-10-14T20:26:00.8619934Z - 7708 - Debug - Redirecting device with useragent 'Mozilla/5.0 (iPhone; U; CPU like Mac OS X; en) AppleWebKit/420+ (KHTML, like Gecko) Version/3.0 Mobile/1A543 Safari/419.3' from url 'http://localhost:35312/' to '~/Mobile/Default.aspx' due to 'default'.
+2011-10-14T20:26:00.8929965Z - 7708 - Info - Trimmed request history file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\Devices.dat' by removing 32 bytes.
+2011-10-14T20:27:14.7843849Z - 7708 - Debug - Disposing Redirection Module
+2011-10-14T20:27:24.3863450Z - 7708 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T20:27:24.4043468Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-14T20:27:24.4213485Z - 7708 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T20:27:26.1935257Z - 7708 - Debug - Initialising redirection module
+2011-10-14T20:27:26.2005264Z - 7708 - Debug - Initialising redirection module static fields.
+2011-10-14T20:27:26.2035267Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-14T20:27:36.0285091Z - 7708 - Info - Loaded 14691 devices using 12720 strings in 9639ms
+2011-10-14T20:31:56.8685905Z - 9136 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T20:31:56.9095946Z - 9136 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-14T20:31:56.9275964Z - 9136 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T20:37:43.4162418Z - 7708 - Debug - Disposing Redirection Module
+2011-10-14T20:37:56.3575358Z - 9136 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T20:37:56.3735374Z - 9136 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T20:37:56.4135414Z - 9136 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-14T20:37:56.5105511Z - 9136 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-14T20:37:59.6648665Z - 7708 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T20:37:59.7088709Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-14T20:37:59.8108811Z - 7708 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T20:38:02.0931093Z - 7708 - Debug - Initialising redirection module
+2011-10-14T20:38:02.0971097Z - 7708 - Debug - Initialising redirection module static fields.
+2011-10-14T20:38:02.1001100Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-14T20:38:11.9320931Z - 7708 - Info - Loaded 14691 devices using 12720 strings in 9651ms
+2011-10-14T20:40:25.7234709Z - 7708 - Debug - Disposing Redirection Module
+2011-10-14T20:41:35.4924471Z - 7708 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T20:41:35.5114490Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-14T20:41:35.5344513Z - 7708 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T20:41:35.7024681Z - 7708 - Debug - Initialising redirection module
+2011-10-14T20:41:35.7124691Z - 7708 - Debug - Initialising redirection module static fields.
+2011-10-14T20:41:35.7164695Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-14T20:41:44.5723550Z - 7708 - Info - Loaded 14691 devices using 12720 strings in 8699ms
+2011-10-14T20:42:18.1987173Z - 7708 - Debug - Disposing Redirection Module
+2011-10-14T20:44:03.2232187Z - 7708 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T20:44:03.2412205Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-14T20:44:03.2662230Z - 7708 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T20:44:03.4392403Z - 7708 - Debug - Initialising redirection module
+2011-10-14T20:44:03.4492413Z - 7708 - Debug - Initialising redirection module static fields.
+2011-10-14T20:44:03.4522416Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-14T20:44:12.3881351Z - 7708 - Info - Loaded 14691 devices using 12720 strings in 8774ms
+2011-10-14T21:02:50.8939745Z - 7708 - Debug - Disposing Redirection Module
+2011-10-14T21:10:51.4260229Z - 9136 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T21:10:51.4410244Z - 9136 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-14T21:10:51.4630266Z - 9136 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T21:10:57.2836086Z - 7708 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T21:10:57.3026105Z - 7708 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-14T21:10:57.3306133Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-14T21:10:57.3616164Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-14T21:10:58.9017704Z - 7708 - Debug - Initialising redirection module
+2011-10-14T21:10:58.9127715Z - 7708 - Debug - Initialising redirection module static fields.
+2011-10-14T21:10:58.9157718Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-14T21:11:08.0506852Z - 7708 - Info - Loaded 14691 devices using 12720 strings in 8934ms
+2011-10-14T21:14:05.9064690Z - 7708 - Debug - Initialising redirection module
+2011-10-14T21:14:05.9074691Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-14T21:14:56.6095388Z - 7708 - Debug - Disposing Redirection Module
+2011-10-14T21:26:24.4670786Z - 7708 - Debug - Initialising redirection module
+2011-10-14T21:26:24.4670786Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-14T21:27:27.0966020Z - 7708 - Debug - Disposing Redirection Module
+2011-10-14T21:32:11.4349969Z - 7708 - Debug - Initialising redirection module
+2011-10-14T21:32:11.4349969Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-14T21:34:27.3985919Z - 7708 - Debug - Disposing Redirection Module
+2011-10-17T21:29:14.1614432Z - 7708 - Debug - Disposing Redirection Module
+2011-10-17T21:31:49.5969852Z - 9136 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-17T21:31:49.8240079Z - 9136 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-17T21:31:50.0080263Z - 9136 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:18:59.6402920Z - 9136 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:18:59.7613041Z - 9136 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T17:19:00.2203500Z - 9136 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:19:10.4433722Z - 7708 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:19:10.8124091Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T17:19:11.2804559Z - 7708 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:19:20.9714249Z - 7708 - Debug - Initialising redirection module
+2011-10-18T17:19:20.9934271Z - 7708 - Debug - Initialising redirection module static fields.
+2011-10-18T17:19:21.0624340Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-18T17:19:33.7947071Z - 7708 - Info - Loaded 14691 devices using 12720 strings in 11023ms
+2011-10-18T17:19:46.6039879Z - 7708 - Debug - Initialising redirection module
+2011-10-18T17:19:46.6039879Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-18T17:20:30.8474118Z - 7708 - Debug - Disposing Redirection Module
+2011-10-18T17:21:32.6615926Z - 7708 - Debug - Request for 'http://localhost:35312/' with handler type 'System.Web.Mvc.MvcHandler' and current page '' is not a restricted page for redirect.
+2011-10-18T17:21:32.6615926Z - 7708 - Debug - Redirecting device with useragent 'Mozilla/5.0 (iPhone; U; CPU like Mac OS X; en) AppleWebKit/420+ (KHTML, like Gecko) Version/3.0 Mobile/1A543 Safari/419.3' from url 'http://localhost:35312/' to '~/Mobile/Default.aspx' due to 'default'.
+2011-10-18T17:21:32.9556220Z - 7708 - Info - Trimmed request history file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\Devices.dat' by removing 48 bytes.
+2011-10-18T17:21:58.9752237Z - 7708 - Debug - Initialising redirection module
+2011-10-18T17:21:59.0142276Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-18T17:23:00.9184174Z - 7708 - Debug - Disposing Redirection Module
+2011-10-18T17:23:47.1670418Z - 7708 - Debug - Initialising redirection module
+2011-10-18T17:23:47.1670418Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-18T17:24:51.8515096Z - 7708 - Debug - Disposing Redirection Module
+2011-10-18T17:24:51.8535098Z - 7708 - Debug - Disposing Redirection Module
+2011-10-18T17:25:31.2614502Z - 7708 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:25:31.3304571Z - 7708 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:25:31.4424683Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T17:25:31.5734814Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T17:25:33.4836724Z - 7708 - Debug - Initialising redirection module
+2011-10-18T17:25:33.4876728Z - 7708 - Debug - Initialising redirection module static fields.
+2011-10-18T17:25:33.4906731Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-18T17:25:44.0887328Z - 7708 - Info - Loaded 14691 devices using 12720 strings in 10428ms
+2011-10-18T17:25:49.6482887Z - 7708 - Debug - Initialising redirection module
+2011-10-18T17:25:49.6482887Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-18T17:26:44.2417475Z - 9136 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:26:44.2577491Z - 9136 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T17:26:44.3967630Z - 9136 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:26:59.4692701Z - 7708 - Debug - Disposing Redirection Module
+2011-10-18T17:27:39.9783206Z - 7708 - Debug - Disposing Redirection Module
+2011-10-18T17:30:52.0175226Z - 9136 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:30:52.0525261Z - 9136 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T17:30:52.0765285Z - 9136 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:30:54.7067915Z - 7708 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:30:54.7307939Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T17:30:54.7487957Z - 7708 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:30:56.8830091Z - 7708 - Debug - Initialising redirection module
+2011-10-18T17:30:56.8860094Z - 7708 - Debug - Initialising redirection module static fields.
+2011-10-18T17:30:56.8900098Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-18T17:31:06.7779985Z - 7708 - Info - Loaded 14691 devices using 12720 strings in 9713ms
+2011-10-18T17:42:47.3150452Z - 7708 - Debug - Disposing Redirection Module
+2011-10-18T17:43:05.7278863Z - 9136 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:43:05.7458881Z - 9136 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T17:43:05.7658901Z - 9136 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:44:13.1306259Z - 9136 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:44:13.1466275Z - 9136 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:44:13.1756304Z - 9136 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T17:44:13.2056334Z - 9136 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T17:44:33.4346561Z - 7708 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:44:33.4616588Z - 7708 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:44:33.5136640Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T17:44:33.6596786Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T17:44:35.3888515Z - 7708 - Debug - Initialising redirection module
+2011-10-18T17:44:35.3958522Z - 7708 - Debug - Initialising redirection module static fields.
+2011-10-18T17:44:35.3988525Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-18T17:44:45.1728298Z - 7708 - Info - Loaded 14691 devices using 12720 strings in 9606ms
+2011-10-18T17:51:06.2179588Z - 7708 - Debug - Disposing Redirection Module
+2011-10-18T17:51:10.3979588Z - 9136 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:51:10.4179588Z - 9136 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T17:51:10.4709588Z - 9136 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:51:21.1099588Z - 7708 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:51:21.1319588Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T17:51:21.1509588Z - 7708 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:51:23.4619588Z - 7708 - Debug - Initialising redirection module
+2011-10-18T17:51:23.4669588Z - 7708 - Debug - Initialising redirection module static fields.
+2011-10-18T17:51:23.4699588Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-18T17:51:33.2469588Z - 7708 - Info - Loaded 14691 devices using 12720 strings in 9574ms
+2011-10-18T17:53:31.6509588Z - 7708 - Debug - Disposing Redirection Module
+2011-10-18T17:53:54.4039588Z - 9136 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:53:54.4209588Z - 9136 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:53:54.4519588Z - 9136 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T17:53:54.4949588Z - 9136 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T17:54:06.9279588Z - 9136 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:54:06.9729588Z - 9136 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:54:07.0099588Z - 9136 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T17:54:07.0479588Z - 9136 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T17:54:17.0399588Z - 7708 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:54:17.0589588Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T17:54:17.0769588Z - 7708 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T17:54:18.7109588Z - 7708 - Debug - Initialising redirection module
+2011-10-18T17:54:18.7149588Z - 7708 - Debug - Initialising redirection module static fields.
+2011-10-18T17:54:18.7179588Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-18T17:54:28.5319588Z - 7708 - Info - Loaded 14691 devices using 12720 strings in 9658ms
+2011-10-18T17:59:59.5962771Z - 7708 - Debug - Disposing Redirection Module
+2011-10-18T18:01:08.5901758Z - 7708 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T18:01:08.6101778Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T18:01:08.6291797Z - 7708 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T18:01:08.9842152Z - 7708 - Debug - Initialising redirection module
+2011-10-18T18:01:08.9882156Z - 7708 - Debug - Initialising redirection module static fields.
+2011-10-18T18:01:08.9912159Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-18T18:01:18.4291596Z - 7708 - Info - Loaded 14691 devices using 12720 strings in 9287ms
+2011-10-18T18:10:31.8604972Z - 7708 - Debug - Request for 'http://localhost:35312/' with handler type 'System.Web.Mvc.MvcHandler' and current page '' is not a restricted page for redirect.
+2011-10-18T18:10:31.8604972Z - 7708 - Debug - Redirecting device with useragent 'Mozilla/5.0 (iPhone; U; CPU like Mac OS X; en) AppleWebKit/420+ (KHTML, like Gecko) Version/3.0 Mobile/1A543 Safari/419.3' from url 'http://localhost:35312/' to '~/Mobile/Default.aspx' due to 'default'.
+2011-10-18T18:10:31.8684980Z - 7708 - Info - Trimmed request history file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\Devices.dat' by removing 48 bytes.
+2011-10-18T18:10:41.9115022Z - 7708 - Debug - Disposing Redirection Module
+2011-10-18T18:10:46.4839594Z - 9136 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T18:10:46.4999610Z - 9136 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T18:10:46.5599670Z - 9136 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T18:11:49.0142118Z - 7708 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T18:11:49.0352139Z - 7708 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T18:11:49.1602264Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T18:11:49.2362340Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T18:11:50.8773981Z - 7708 - Debug - Initialising redirection module
+2011-10-18T18:11:50.8813985Z - 7708 - Debug - Initialising redirection module static fields.
+2011-10-18T18:11:50.8853989Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-18T18:12:00.4523555Z - 7708 - Info - Loaded 14691 devices using 12720 strings in 9404ms
+2011-10-18T18:13:35.4608554Z - 7708 - Debug - Disposing Redirection Module
+2011-10-18T18:13:54.4187510Z - 9136 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T18:13:54.5387630Z - 9136 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T18:13:55.1398231Z - 9136 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T18:13:55.2008292Z - 9136 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T18:13:57.9481039Z - 7708 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T18:13:57.9681059Z - 7708 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T18:13:58.1011192Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T18:13:58.1891280Z - 7708 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T18:13:59.9753066Z - 7708 - Debug - Initialising redirection module
+2011-10-18T18:13:59.9793070Z - 7708 - Debug - Initialising redirection module static fields.
+2011-10-18T18:13:59.9823073Z - 7708 - Debug - Initialising redirection module event handlers
+2011-10-18T18:14:09.8032893Z - 7708 - Info - Loaded 14691 devices using 12720 strings in 9600ms
+2011-10-18T18:38:26.7879967Z - 7708 - Debug - Disposing Redirection Module
+2011-10-18T18:38:35.3348513Z - 9136 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T18:38:35.3508529Z - 9136 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T18:38:35.3818560Z - 9136 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T18:40:27.2600427Z - 9584 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T18:40:27.4140581Z - 9584 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T18:40:27.6420809Z - 9584 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T18:40:31.1904357Z - 9584 - Debug - Initialising redirection module
+2011-10-18T18:40:31.2034370Z - 9584 - Debug - Initialising redirection module static fields.
+2011-10-18T18:40:31.2104377Z - 9584 - Debug - Initialising redirection module event handlers
+2011-10-18T18:40:41.6674833Z - 9584 - Info - Loaded 14691 devices using 12720 strings in 9714ms
+2011-10-18T18:40:58.3431507Z - 9584 - Debug - Initialising redirection module
+2011-10-18T18:40:58.3431507Z - 9584 - Debug - Initialising redirection module event handlers
+2011-10-18T18:41:54.3417500Z - 9584 - Debug - Disposing Redirection Module
+2011-10-18T21:49:49.9095953Z - 8176 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T21:49:50.0106054Z - 8176 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T21:49:50.1556199Z - 8176 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T21:49:51.7757819Z - 8176 - Debug - Initialising redirection module
+2011-10-18T21:49:51.7857829Z - 8176 - Debug - Initialising redirection module static fields.
+2011-10-18T21:49:51.8627906Z - 8176 - Debug - Initialising redirection module event handlers
+2011-10-18T21:49:54.7410784Z - 8176 - Debug - Initialising redirection module
+2011-10-18T21:49:54.7410784Z - 8176 - Debug - Initialising redirection module event handlers
+2011-10-18T21:49:56.8072850Z - 8176 - Info - Loaded 14691 devices using 12720 strings in 4334ms
+2011-10-18T21:50:30.2636303Z - 8176 - Debug - Request for 'http://localhost:35312/' with handler type 'System.Web.Mvc.MvcHandler' and current page '' is not a restricted page for redirect.
+2011-10-18T21:50:30.2636303Z - 8176 - Debug - Redirecting device with useragent 'Mozilla/5.0 (iPhone; U; CPU like Mac OS X; en) AppleWebKit/420+ (KHTML, like Gecko) Version/3.0 Mobile/1A543 Safari/419.3' from url 'http://localhost:35312/' to '~/Mobile/Default.aspx' due to 'default'.
+2011-10-18T21:50:30.3886428Z - 8176 - Info - Trimmed request history file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\Devices.dat' by removing 32 bytes.
+2011-10-18T21:52:16.7672796Z - 8176 - Debug - Disposing Redirection Module
+2011-10-18T22:14:03.9218195Z - 8176 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T22:14:03.9268195Z - 8176 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-18T22:14:03.9468195Z - 8176 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-18T22:14:04.0588195Z - 8176 - Debug - Initialising redirection module
+2011-10-18T22:14:04.0598195Z - 8176 - Debug - Initialising redirection module static fields.
+2011-10-18T22:14:04.0608195Z - 8176 - Debug - Initialising redirection module event handlers
+2011-10-18T22:14:06.7918195Z - 8176 - Info - Loaded 14691 devices using 12720 strings in 2669ms
+2011-10-18T22:15:15.3848195Z - 8176 - Debug - Initialising redirection module
+2011-10-18T22:15:15.3848195Z - 8176 - Debug - Initialising redirection module event handlers
+2011-10-18T22:16:33.7472960Z - 8176 - Debug - Disposing Redirection Module
+2011-10-19T20:15:48.2640564Z - 296 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-19T20:15:48.2710564Z - 296 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-19T20:15:48.3230564Z - 296 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T13:28:53.8130247Z - 296 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T13:28:53.8530367Z - 296 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-20T13:28:53.9790745Z - 296 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T18:06:46.6014717Z - 6404 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T18:06:46.6244740Z - 6404 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T18:06:46.7924908Z - 6404 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-20T18:06:47.0185134Z - 6404 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-20T18:06:49.3897505Z - 296 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T18:06:49.3957511Z - 296 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T18:06:49.4057521Z - 296 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-20T18:06:49.5197635Z - 296 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-20T18:06:53.6161731Z - 6404 - Debug - Initialising redirection module
+2011-10-20T18:06:53.6181733Z - 6404 - Debug - Initialising redirection module static fields.
+2011-10-20T18:06:53.6191734Z - 6404 - Debug - Initialising redirection module event handlers
+2011-10-20T18:06:57.3735488Z - 6404 - Info - Loaded 14691 devices using 12720 strings in 2819ms
+2011-10-20T18:07:03.7281842Z - 6404 - Debug - Initialising redirection module
+2011-10-20T18:07:03.7281842Z - 6404 - Debug - Initialising redirection module event handlers
+2011-10-20T18:08:08.6976805Z - 6404 - Debug - Disposing Redirection Module
+2011-10-20T18:10:00.9999096Z - 6404 - Debug - Request for 'http://localhost:35312/' with handler type 'System.Web.Mvc.MvcHandler' and current page '' is not a restricted page for redirect.
+2011-10-20T18:10:00.9999096Z - 6404 - Debug - Redirecting device with useragent 'Mozilla/5.0 (iPhone; U; CPU like Mac OS X; en) AppleWebKit/420+ (KHTML, like Gecko) Version/3.0 Mobile/1A543 Safari/419.3' from url 'http://localhost:35312/' to '~/Mobile/Default.aspx' due to 'default'.
+2011-10-20T18:13:35.3073382Z - 6404 - Debug - Disposing Redirection Module
+2011-10-20T18:14:24.9723042Z - 296 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T18:14:24.9923062Z - 296 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T18:14:25.0003070Z - 296 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-20T18:14:25.2813351Z - 296 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-20T18:15:40.9509013Z - 6404 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T18:15:40.9559018Z - 6404 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T18:15:40.9699032Z - 6404 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-20T18:15:41.2709333Z - 6404 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-20T18:15:41.9910053Z - 6404 - Debug - Initialising redirection module
+2011-10-20T18:15:41.9930055Z - 6404 - Debug - Initialising redirection module static fields.
+2011-10-20T18:15:41.9940056Z - 6404 - Debug - Initialising redirection module event handlers
+2011-10-20T18:15:44.6982760Z - 6404 - Info - Loaded 14691 devices using 12720 strings in 2636ms
+2011-10-20T19:36:02.6488515Z - 6404 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T19:36:02.6538515Z - 6404 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T19:36:02.7198515Z - 6404 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-20T19:36:03.4368515Z - 6404 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-20T19:36:05.9308515Z - 6404 - Debug - Initialising redirection module
+2011-10-20T19:36:05.9318515Z - 6404 - Debug - Initialising redirection module static fields.
+2011-10-20T19:36:05.9338515Z - 6404 - Debug - Initialising redirection module event handlers
+2011-10-20T19:36:08.9178515Z - 6404 - Info - Loaded 14691 devices using 12720 strings in 2884ms
+2011-10-20T19:50:07.2895255Z - 6404 - Debug - Initialising redirection module
+2011-10-20T19:50:07.2895255Z - 6404 - Debug - Initialising redirection module event handlers
+2011-10-20T19:51:02.4780438Z - 6404 - Debug - Disposing Redirection Module
+2011-10-20T19:56:31.2619189Z - 6404 - Debug - Initialising redirection module
+2011-10-20T19:56:31.2619189Z - 6404 - Debug - Initialising redirection module event handlers
+2011-10-20T19:57:32.6850606Z - 6404 - Debug - Disposing Redirection Module
+2011-10-20T20:17:55.2263025Z - 6404 - Debug - Disposing Redirection Module
+2011-10-20T20:18:55.4163209Z - 296 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T20:18:55.4213214Z - 296 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-20T20:18:55.5313324Z - 296 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T20:18:55.4413234Z - 6404 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T20:18:55.4473240Z - 6404 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-20T20:18:55.4533246Z - 6404 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T20:18:57.3335126Z - 6404 - Debug - Initialising redirection module
+2011-10-20T20:18:57.3355128Z - 6404 - Debug - Initialising redirection module static fields.
+2011-10-20T20:18:57.3355128Z - 6404 - Debug - Initialising redirection module event handlers
+2011-10-20T20:19:00.3028095Z - 6404 - Info - Loaded 14691 devices using 12720 strings in 2855ms
+2011-10-20T20:19:02.7920584Z - 6404 - Debug - Initialising redirection module
+2011-10-20T20:19:02.7920584Z - 6404 - Debug - Initialising redirection module event handlers
+2011-10-20T20:19:54.5072294Z - 6404 - Debug - Disposing Redirection Module
+2011-10-20T20:27:02.0359780Z - 6404 - Debug - Disposing Redirection Module
+2011-10-20T20:27:12.5740317Z - 296 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T20:27:12.5780321Z - 296 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T20:27:12.5860329Z - 296 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-20T20:27:12.6000343Z - 296 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-20T20:27:20.8878630Z - 6248 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T20:27:20.9218664Z - 6248 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T20:27:20.9578700Z - 6248 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-20T20:27:21.0188761Z - 6248 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-20T20:27:23.9511693Z - 6248 - Debug - Initialising redirection module
+2011-10-20T20:27:23.9531695Z - 6248 - Debug - Initialising redirection module static fields.
+2011-10-20T20:27:23.9541696Z - 6248 - Debug - Initialising redirection module event handlers
+2011-10-20T20:27:26.7144456Z - 6248 - Info - Loaded 14691 devices using 12720 strings in 2654ms
+2011-10-20T21:14:33.0840382Z - 6248 - Debug - Initialising redirection module
+2011-10-20T21:14:33.0840382Z - 6248 - Debug - Initialising redirection module event handlers
+2011-10-20T21:15:49.4500382Z - 6248 - Debug - Disposing Redirection Module
+2011-10-20T21:18:54.9370382Z - 6248 - Debug - Disposing Redirection Module
+2011-10-20T21:19:05.7790382Z - 6248 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T21:19:05.7840382Z - 6248 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T21:19:05.8000382Z - 6248 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-20T21:19:06.0570382Z - 6248 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-20T21:19:06.8150382Z - 6248 - Debug - Initialising redirection module
+2011-10-20T21:19:06.8160382Z - 6248 - Debug - Initialising redirection module static fields.
+2011-10-20T21:19:06.8170382Z - 6248 - Debug - Initialising redirection module event handlers
+2011-10-20T21:19:09.7200382Z - 6248 - Info - Loaded 14691 devices using 12720 strings in 2822ms
+2011-10-20T21:24:58.4780382Z - 6248 - Debug - Initialising redirection module
+2011-10-20T21:24:58.4780382Z - 6248 - Debug - Initialising redirection module event handlers
+2011-10-20T21:26:05.7590382Z - 6248 - Debug - Disposing Redirection Module
+2011-10-20T21:49:28.0667708Z - 296 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T21:49:28.0877771Z - 296 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T21:49:28.1267888Z - 296 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-20T21:49:28.3328506Z - 296 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-20T21:49:45.4129731Z - 6248 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T21:49:45.4429821Z - 6248 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-20T21:49:45.5090019Z - 6248 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-20T21:49:45.6150337Z - 6248 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-20T21:49:48.4028698Z - 6248 - Debug - Initialising redirection module
+2011-10-20T21:49:48.4058707Z - 6248 - Debug - Initialising redirection module static fields.
+2011-10-20T21:49:48.4068710Z - 6248 - Debug - Initialising redirection module event handlers
+2011-10-20T21:49:51.1797026Z - 6248 - Info - Loaded 14691 devices using 12720 strings in 2671ms
+2011-10-21T13:30:55.0591224Z - 296 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-21T13:30:55.0641204Z - 296 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-21T13:30:55.0701180Z - 296 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-21T13:34:52.5180360Z - 296 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-21T13:34:52.5230355Z - 296 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-21T13:34:52.5290349Z - 296 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-21T13:35:13.9668909Z - 6248 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-21T13:35:13.9728903Z - 6248 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-21T13:35:14.0358840Z - 6248 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-21T13:35:16.0966779Z - 6248 - Debug - Initialising redirection module
+2011-10-21T13:35:16.0976778Z - 6248 - Debug - Initialising redirection module static fields.
+2011-10-21T13:35:16.0986777Z - 6248 - Debug - Initialising redirection module event handlers
+2011-10-21T13:35:19.1633712Z - 6248 - Info - Loaded 14691 devices using 12720 strings in 2889ms
+2011-10-21T13:35:29.0233851Z - 6248 - Debug - Initialising redirection module
+2011-10-21T13:35:29.0233851Z - 6248 - Debug - Initialising redirection module event handlers
+2011-10-21T13:35:37.4445429Z - 6248 - Debug - Initialising redirection module
+2011-10-21T13:35:37.4445429Z - 6248 - Debug - Initialising redirection module event handlers
+2011-10-21T13:35:37.4445429Z - 6248 - Debug - Initialising redirection module
+2011-10-21T13:35:37.4445429Z - 6248 - Debug - Initialising redirection module event handlers
+2011-10-21T13:36:12.9199950Z - 6248 - Debug - Disposing Redirection Module
+2011-10-21T13:36:41.2711596Z - 6248 - Debug - Initialising redirection module
+2011-10-21T13:36:41.2711596Z - 6248 - Debug - Initialising redirection module event handlers
+2011-10-21T13:37:42.9560085Z - 6248 - Debug - Disposing Redirection Module
+2011-10-21T13:38:42.9810085Z - 6248 - Debug - Disposing Redirection Module
+2011-10-21T13:39:12.9940085Z - 6248 - Debug - Disposing Redirection Module
+2011-10-21T13:39:46.3990085Z - 6248 - Debug - Initialising redirection module
+2011-10-21T13:39:46.4040085Z - 6248 - Debug - Initialising redirection module event handlers
+2011-10-21T13:39:59.8740085Z - 6248 - Debug - Initialising redirection module
+2011-10-21T13:39:59.8740085Z - 6248 - Debug - Initialising redirection module event handlers
+2011-10-21T13:39:59.9880085Z - 6248 - Debug - Initialising redirection module
+2011-10-21T13:39:59.9880085Z - 6248 - Debug - Initialising redirection module event handlers
+2011-10-21T13:40:25.9520085Z - 6248 - Debug - Initialising redirection module
+2011-10-21T13:40:25.9520085Z - 6248 - Debug - Initialising redirection module event handlers
+2011-10-21T13:41:43.0590085Z - 6248 - Debug - Disposing Redirection Module
+2011-10-21T13:42:13.0710085Z - 6248 - Debug - Disposing Redirection Module
+2011-10-21T13:42:43.0840085Z - 6248 - Debug - Disposing Redirection Module
+2011-10-21T13:43:13.1010085Z - 6248 - Debug - Disposing Redirection Module
+2011-10-21T14:00:15.0328260Z - 6248 - Debug - Disposing Redirection Module
+2011-10-21T14:00:17.8091036Z - 296 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-21T14:00:17.8141041Z - 296 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-21T14:00:17.8631090Z - 296 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-21T14:00:32.9176143Z - 6248 - Debug - Getting 'fiftyOne/redirect' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-21T14:00:32.9236149Z - 6248 - Debug - Getting 'fiftyOne/wurfl' configuration from file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\51Degrees.mobi.config'.
+2011-10-21T14:00:32.9376163Z - 6248 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-21T14:00:32.9626188Z - 6248 - Debug - Constructing MobileCapabilitiesProvider - Default
+2011-10-21T14:00:35.0148240Z - 6248 - Debug - Initialising redirection module
+2011-10-21T14:00:35.0158241Z - 6248 - Debug - Initialising redirection module static fields.
+2011-10-21T14:00:35.0168242Z - 6248 - Debug - Initialising redirection module event handlers
+2011-10-21T14:00:38.2671492Z - 6248 - Info - Loaded 14691 devices using 12720 strings in 2892ms
+2011-10-21T14:00:54.2437467Z - 6248 - Debug - Initialising redirection module
+2011-10-21T14:00:54.2437467Z - 6248 - Debug - Initialising redirection module event handlers
+2011-10-21T14:02:02.3199983Z - 6248 - Debug - Disposing Redirection Module
+2011-10-21T14:42:13.5416705Z - 6248 - Debug - Initialising redirection module
+2011-10-21T14:42:13.5486712Z - 6248 - Debug - Initialising redirection module event handlers
+2011-10-21T14:42:13.7066870Z - 6248 - Debug - Initialising redirection module
+2011-10-21T14:42:13.7066870Z - 6248 - Debug - Initialising redirection module event handlers
+2011-10-21T14:43:03.5056664Z - 6248 - Debug - Disposing Redirection Module
+2011-10-21T14:43:34.0397195Z - 6248 - Debug - Disposing Redirection Module
+2011-10-21T15:21:36.9430011Z - 6248 - Debug - Initialising redirection module
+2011-10-21T15:21:36.9430011Z - 6248 - Debug - Initialising redirection module event handlers
+2011-10-21T15:21:53.8306897Z - 6248 - Debug - Request for 'http://localhost:35312/' with handler type 'System.Web.Mvc.MvcHandler' and current page '' is not a restricted page for redirect.
+2011-10-21T15:21:53.8306897Z - 6248 - Debug - Redirecting device with useragent 'Mozilla/5.0 (iPhone; U; CPU like Mac OS X; en) AppleWebKit/420+ (KHTML, like Gecko) Version/3.0 Mobile/1A543 Safari/419.3' from url 'http://localhost:35312/' to '~/Mobile/Default.aspx' due to 'default'.
+2011-10-21T15:21:54.0347101Z - 6248 - Info - Trimmed request history file 'C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\App_Data\Devices.dat' by removing 16 bytes.
+2011-10-21T15:23:04.6867746Z - 6248 - Debug - Disposing Redirection Module
+2011-10-21T15:23:20.1713229Z - 6248 - Debug - Initialising redirection module
+2011-10-21T15:23:20.1713229Z - 6248 - Debug - Initialising redirection module event handlers
+2011-10-21T15:23:20.1713229Z - 6248 - Debug - Initialising redirection module
+2011-10-21T15:23:20.1713229Z - 6248 - Debug - Initialising redirection module event handlers
+2011-10-21T15:23:20.1813239Z - 6248 - Debug - Initialising redirection module
+2011-10-21T15:23:20.1813239Z - 6248 - Debug - Initialising redirection module event handlers
+2011-10-21T15:23:20.2643322Z - 6248 - Debug - Initialising redirection module
+2011-10-21T15:23:20.2643322Z - 6248 - Debug - Initialising redirection module event handlers
+2011-10-21T15:24:04.7177771Z - 6248 - Debug - Disposing Redirection Module
+2011-10-21T15:24:34.7337784Z - 6248 - Debug - Disposing Redirection Module
+2011-10-21T15:25:04.7497797Z - 6248 - Debug - Disposing Redirection Module
+2011-10-21T15:25:34.7657810Z - 6248 - Debug - Disposing Redirection Module
+2011-10-21T17:03:23.2304288Z - 6248 - Debug - Disposing Redirection Module

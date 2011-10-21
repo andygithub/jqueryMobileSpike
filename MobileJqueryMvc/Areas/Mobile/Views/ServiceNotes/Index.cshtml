@@ -1,0 +1,90 @@
+﻿@{
+	ViewBag.Title = "Service Notes";
+}
+<div data-role="content">
+    <h3>Service Notes</h3>
+	@using (Html.BeginForm())
+	{
+		
+		<div data-role="collapsible-set">
+			<div data-role="collapsible">
+				<h3> Individual Home</h3>
+				<ul data-role="listview" data-inset="true">
+					<li>10/1/2011
+						<ul>
+							<div class="editor-label"><strong>Date of Service</strong></div>
+                            <div class="editor-field">10/1/2011</div>
+							<div class="editor-label"><strong>Note</strong></div>
+                            <div class="editor-field">This is horrifyingly frustrating. It's like when they started adding people from my email contacts to my Google Talk friends list or when they thought my gtalk friends list needed to be all up in my Google Reader friends list.</div>
+							<div class="editor-label"><strong>Date Last Edited</strong></div>
+                            <div class="editor-field">11/1/2011</div>
+						</ul>						
+					</li>
+					<li>10/5/2011
+						<ul>
+                            <div class="editor-label"><strong>Date of Service</strong></div>
+                            <div class="editor-field">10/5/2011</div>
+							<div class="editor-label"><strong>Note</strong></div>
+                            <div class="editor-field">I have the exact opposite experience. I find it horribly frustrating to have all these contacts in different services surfaced to me in weird inconsistent ways.
+GTalk are for me a subset of email contacts.
+I'm ecstatic that G+ sharing is being integrated with GReader, because I share a lot on GReader, but not everything I share is pertinent to all of my GReader friends.
+Ideally, they'll add a "public circles" feature or something like it, that allows people to subscribe to specific subjects that I define and share to specifically, which would be public, but not pushed into everyone's main timelines.</div>
+							<div class="editor-label"><strong>Date Last Edited</strong></div>
+                            <div class="editor-field">11/1/2011</div>
+						</ul>	                    
+					</li>
+					<li>10/10/2011
+						<ul>
+							<p>Date of Service: 10/10/2011</p>
+							<p>Note: This is a simple note that is testing formatting and a small note.</p>
+							<p>Date Last Edited: 11/1/2011</p>
+						</ul>	                    
+					</li>
+					<li>10/15/2011
+						<ul>
+							<p>Date of Service: 10/15/2011</p>
+							<p>Note: This is a simple note that is testing formatting and a small note.</p>
+							<p>Date Last Edited: 11/1/2011</p>
+						</ul>	                    
+					</li>
+					<li>10/20/2011
+						<ul>
+							<p>Date of Service: 10/20/2011</p>
+							<p>Note: This is a simple note that is testing formatting and a small note.</p>
+							<p>Date Last Edited: 11/1/2011</p>
+						</ul>	                    
+                    </li>
+				</ul>
+			</div>
+			<div data-role="collapsible" >
+				<h3>
+					Community Center</h3>
+				<ul data-role="listview" data-inset="true">
+					<li >9/1/2011
+                        <ul></ul>
+                    </li>
+					<li>9/5/2011
+                        <ul></ul>                    
+                    </li>
+					<li>9/10/2011
+                        <ul></ul>                    
+                    </li>
+					<li>9/15/2011
+                        <ul></ul>
+                    </li>
+				</ul>
+			</div>
+		</div>
+			<fieldset class="ui-grid-a">
+				<div class="ui-block-a">
+					@Html.ActionLink("Home", "Index", "Home", new { area = "Mobile" }, new { data_role = "button", data_icon = "home" })
+				</div>
+				<div class="ui-block-b">
+					@Html.ActionLink("Client", "Index", "Client", new { area = "Mobile" }, new { data_role = "button", data_icon = "arrow-r", data_iconpos = "right" })
+				</div>
+			</fieldset>
+		
+	
+    }
+</div>
+@Html.Partial("_LoggedFooter")

@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+   <title>Spike Mobile: @ViewBag.Title</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="http://code.jquery.com/mobile/latest/jquery.mobile.min.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.6.2.min.js"></script>
+	<script type="text/javascript" src="http://code.jquery.com/mobile/latest/jquery.mobile.min.js"></script>  
+</head>
+
+<body>   
+<div data-role="page">
+<div data-role="header">
+   @{var controller = ViewContext.RouteData.Values["controller"] as string ?? "Home";
+   var action = ViewContext.RouteData.Values["action"] as string ?? "Index";
+   var page = (controller + ":" + action).ToLower();
+   }
+   @if (controller != "Home") { 
+		@Html.ActionLink("Home", "Index", "Home", null, new { data_icon = "home", data_iconpos = "notext", data_direction = "reverse", @class = "ui-btn-left jqm-home",data_prefetch = "data-prefetch" }) 
+   }	
+	<h1>Spike Mobile</h1>
+	@if (controller != "Search")
+	{ 
+		@Html.ActionLink("Search", "Index", "Search", null, new { data_icon = "search", data_iconpos = "notext", data_direction = "reverse", @class = "ui-btn-right",data_prefetch = "data-prefetch" }) 
+	}
+</div>
+@RenderBody()   
+ 
+</body>
+</html>

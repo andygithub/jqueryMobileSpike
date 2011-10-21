@@ -1,0 +1,46 @@
+﻿@{
+	ViewBag.Title = "Address";
+}
+<div data-role="content">
+	<h3>Address</h3>
+	@using (Html.BeginForm())
+	{
+	
+		<div data-role="collapsible-set">
+			<div data-role="collapsible" >
+				<h3>
+					Residential</h3>
+				<ul data-role="listview" data-inset="true">
+					<li>Address Line 1: </li>
+					<li>Address Line 2: </li>
+					<li>Address Line 3: </li>
+					<li>City: </li>
+					<li>State: </li>
+					<li>Zip: </li>
+				</ul>
+			</div>
+			<div data-role="collapsible">
+				<h3>
+					Mailing</h3>
+				<ul data-role="listview" data-inset="true">
+					<li>Address Line 1: </li>
+					<li>Address Line 2: </li>
+					<li>Address Line 3: </li>
+					<li>City: </li>
+					<li>State: </li>
+					<li>Zip: </li>
+				</ul>
+			</div>
+		</div>
+			<fieldset class="ui-grid-a">
+				<div class="ui-block-a">
+					@Html.ActionLink("Home", "Index", "Home", new { area = "Mobile" }, new { data_role = "button", data_icon = "home" })
+				</div>
+				<div class="ui-block-b">
+					@Html.ActionLink("Contacts", "Index", "Contacts", new { area = "Mobile" }, new { data_role = "button", data_icon = "arrow-r", data_iconpos = "right" })
+				</div>
+			</fieldset>
+		
+	}
+</div>
+@Html.Partial("_LoggedFooter")

@@ -1,0 +1,27 @@
+﻿@{
+	ViewBag.Title = "Client";
+}
+<div data-role="content" >
+	<h3>
+		Client</h3>
+	@using (Html.BeginForm())
+	{
+	 <ul data-role="listview" data-inset="true">
+		<li>Client Id: 0123456789</li>
+		<li>Name: John J Smith</li>
+		<li>Date of Birth: 01-Jan-1900</li>
+		<li>Gender: Male</li>
+		<li>Race: Unknown</li>
+	 </ul>
+		   
+		<fieldset class="ui-grid-a">
+			<div class="ui-block-a">
+				@Html.ActionLink("Home", "Index", "Home", new { area = "Mobile" }, new { data_role = "button", data_icon = "home" })
+			</div>
+			<div class="ui-block-b">
+				@Html.ActionLink("Address", "Index", "Address", new { area = "Mobile" }, new { data_role = "button", data_icon = "arrow-r", data_iconpos = "right" })
+			</div>
+		</fieldset>
+	}
+</div>
+@Html.Partial("_LoggedFooter")

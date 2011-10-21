@@ -1,0 +1,14 @@
+﻿@{
+   ViewBag.Title = "Home";
+}
+
+<div data-role="content">  
+<ul data-role="listview">
+    <li>@Html.Partial("_LogOnPartial")</li>
+    <li>@Html.ActionLink("Client", "Index", "Client", new { area = "Mobile" }, new { data_prefetch = "data-prefetch" })</li>                    
+    <li>@Html.ActionLink("Address", "Index", "Address", new { area = "Mobile" }, new { data_prefetch = "data-prefetch" })</li>
+    <li>@Html.ActionLink("Contacts", "Index", "Contacts", new { area = "Mobile" }, new { data_prefetch = "data-prefetch" })</li>
+    <li>@Html.ActionLink("Service Notes", "Index", "ServiceNotes", new { area = "Mobile" }, new { data_prefetch = "data-prefetch" })</li>
+</ul>
+</div>
+@Html.Partial("_AnonFooter")

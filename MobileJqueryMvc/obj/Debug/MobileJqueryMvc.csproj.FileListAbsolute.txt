@@ -1,0 +1,10 @@
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\bin\MobileJqueryMvc.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\bin\MobileJqueryMvc.pdb
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\bin\FiftyOne.Foundation.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\bin\Glimpse.Core.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\bin\Glimpse.Mvc3.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\bin\WebActivator.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\obj\Debug\MobileJqueryMvc.dll
+C:\Users\amaurer\Documents\Visual Studio 2010\Projects\MobileJqueryMvc\MobileJqueryMvc\obj\Debug\MobileJqueryMvc.pdb
